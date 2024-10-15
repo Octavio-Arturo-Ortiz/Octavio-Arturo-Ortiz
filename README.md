@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Octavio-Arturo-Ortiz
-- 👀 I’m interested in ... Web App Developer
-- 🌱 I’m currently learning ... JavaScript and C#
-- 💞️ I’m looking to collaborate on a great proyect for give me a nice experience 
+- 👀 I’m interested in ... Build Software! (pref web enviroment)
+- 🌱 I’m currently learning ... .NET , React , React-native
+- 💞️ I’m looking to collaborate on a great proyect for grow up my skills! 
 
 <!---
 Octavio-Arturo-Ortiz/Octavio-Arturo-Ortiz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
